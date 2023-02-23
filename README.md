@@ -1,3 +1,4 @@
+# EDA --- ETL
 
 🔑 Este repositorio contiene un proyecto académido del BootCamp Data Analyst de Adalab donde a través de diferentes dataframes y APIs se realiza el proceso de EDA, Data Cleaning y ETL. 
 
@@ -37,3 +38,26 @@ Dicho repositorio se divide en tres carpetas:
     
     - ETL VI - Ejecutable Pipeline ETL.
 
+📍 Se necesitarán las librerias:
+
+- Pandas
+
+- Sidetable
+
+- Numpy
+
+- Seaborn
+
+- Matplotlib
+
+- Warnings
+
+- Sklearn
+
+- Regex
+
+- Requests
+
+- Ast
+
+- Datetime
